@@ -1,0 +1,2 @@
+FMTORE2
+(bb*a(a+b)(a+b)+ab*a(a+b)(a+b))(b+ab*a(a+b)(a+b))*

@@ -1,0 +1,330 @@
+﻿빌드 시작: 2016-01-28 오전 8:14:47
+     1>2 노드의 "C:\Users\꼬부기\Documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\grail.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt grail.cpp
+         grail.cpp
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fm.h(141): warning C4141: 'friend' : 두 번 이상 사용했습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fm.h(513) : 컴파일 중인 클래스 템플릿 인스턴스화 'fm<S>'에 대한 참조를 확인하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\parmin.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\parmin.cpp(262): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : 'strtok' 선언을 참조하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\parmin.cpp(279): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\parmin.cpp(311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\parmin.cpp(312): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\parmin.cpp(313): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\parmin.cpp(314): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\parmin.cpp(315): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\dnf\termsim.cpp(132): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\dnf\termsim.cpp(143): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\manage_bitvec.cpp(58): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\manage_bitvec.cpp(63): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\manage_bitvec.cpp(69): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(63): warning C4244: '=' : 'time_t'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(58): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fltofmmn.cpp(12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fltofmmn.cpp(8) : 클래스 템플릿 멤버 함수 'void fm<S>::fltofm_min(const fl<S> &)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(740) : 컴파일 중인 함수 템플릿 인스턴스화 'void fm<S>::fltofm_min(const fl<S> &)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(42) : 컴파일 중인 클래스 템플릿 인스턴스화 'fm<S>'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fltofmmn.cpp(12): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fltofmmn.cpp(12): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fltofmmn.cpp(12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fltofmmn.cpp(12): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\fltofmmn.cpp(12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\minbyp.cpp(75): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fm\minbyp.cpp(65) : 클래스 템플릿 멤버 함수 'fm<S> &fm<S>::min_by_partition(void)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(380) : 컴파일 중인 함수 템플릿 인스턴스화 'fm<S> &fm<S>::min_by_partition(void)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fcm\fmtofcm2.cpp(32): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fcm\fmtofcm2.cpp(21) : 클래스 템플릿 멤버 함수 'fcm<S> &fcm<S>::convert_to_fcm2(const fm<S> &)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(497) : 컴파일 중인 함수 템플릿 인스턴스화 'fcm<S> &fcm<S>::convert_to_fcm2(const fm<S> &)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(102) : 컴파일 중인 클래스 템플릿 인스턴스화 'fcm<S>'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fcm\fcmmin.cpp(32): warning C4101: 'q' :참조되지 않은 지역 변수입니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fcm\fcmmin.cpp(21) : 클래스 템플릿 멤버 함수 'fcm<S> &fcm<S>::fcmmin(void)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(198) : 컴파일 중인 함수 템플릿 인스턴스화 'fcm<S> &fcm<S>::fcmmin(void)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fcm\fltofcm.cpp(45): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fcm\fltofcm.cpp(43) : 클래스 템플릿 멤버 함수 'void fcm<S>::fltofcm(const fl<S> &)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(720) : 컴파일 중인 함수 템플릿 인스턴스화 'void fcm<S>::fltofcm(const fl<S> &)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\fcm\fltofcm.cpp(119): warning C4101: 'level_count' :참조되지 않은 지역 변수입니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afaios.cpp(392): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afaios.cpp(347) : 클래스 템플릿 멤버 함수 'void afa<S>::print(std::ostream &) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(1016) : 컴파일 중인 함수 템플릿 인스턴스화 'void afa<S>::print(std::ostream &) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(914) : 컴파일 중인 클래스 템플릿 인스턴스화 'afa<S>'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afatofm.cpp(69): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afatofm.cpp(42) : 클래스 템플릿 멤버 함수 'fm<S> afa<S>::afatofm(void) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(930) : 컴파일 중인 함수 템플릿 인스턴스화 'fm<S> afa<S>::afatofm(void) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(202): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(111) : 클래스 템플릿 멤버 함수 'void afa<S>::fmtoafa(const fm<S> &)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(915) : 컴파일 중인 함수 템플릿 인스턴스화 'void afa<S>::fmtoafa(const fm<S> &)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(211): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(269): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(302): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(314): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(327): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(375): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(385): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(394): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\fmtoafa.cpp(396): warning C4018: '<=' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\acceptance.cpp(91): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\acceptance.cpp(57) : 클래스 템플릿 멤버 함수 'int afa<S>::accept(string<char> &) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(949) : 컴파일 중인 함수 템플릿 인스턴스화 'int afa<S>::accept(string<char> &) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afacomplement.cpp(54): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afacomplement.cpp(44) : 클래스 템플릿 멤버 함수 'afa<S> afa<S>::complement(void) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(979) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S> afa<S>::complement(void) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afaintersection.cpp(83): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afaintersection.cpp(52) : 클래스 템플릿 멤버 함수 'afa<S> afa<S>::intersection(const afa<S> &) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(1005) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S> afa<S>::intersection(const afa<S> &) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\assign.cpp(50): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\assign.cpp(43) : 클래스 템플릿 멤버 함수 'afa<S> &afa<S>::operator =(const afa<S> &)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(979) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S> &afa<S>::operator =(const afa<S> &)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\reverse.cpp(159): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\reverse.cpp(54) : 클래스 템플릿 멤버 함수 'afa<S> afa<S>::reverse(void) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(1044) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S> afa<S>::reverse(void) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\star.cpp(148): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\star.cpp(47) : 클래스 템플릿 멤버 함수 'afa<S> afa<S>::opstar(void) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(1055) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S> afa<S>::opstar(void) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\star.cpp(152): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\star.cpp(197): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afa.h(143): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afa.h(140) : 클래스 템플릿 멤버 함수 'unsigned int afa<S>::transition(unsigned int,int) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\reverse.cpp(91) : 컴파일 중인 함수 템플릿 인스턴스화 'unsigned int afa<S>::transition(unsigned int,int) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\fill.cpp(145): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\fill.cpp(67) : 클래스 템플릿 멤버 함수 'int re<char>::fill_buffer(std::istream &,char **,char,char)'을(를) 컴파일하고 있습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\istream.cpp(64) : 컴파일 중인 함수 템플릿 인스턴스화 'int re<char>::fill_buffer(std::istream &,char **,char,char)'에 대한 참조를 확인하십시오.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\cat.cpp(60) : 클래스 템플릿 멤버 함수 're<char> &re<char>::operator ^=(const re<char> &)'을(를) 컴파일하고 있습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(828) : 컴파일 중인 함수 템플릿 인스턴스화 're<char> &re<char>::operator ^=(const re<char> &)'에 대한 참조를 확인하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\same_input_union.cpp(74): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\same_input_union.cpp(53) : 클래스 템플릿 멤버 함수 'afa<S> afa<S>::same_input_union(const afa<S> &) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afaunion.cpp(59) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S> afa<S>::same_input_union(const afa<S> &) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afa.cpp(38) : 클래스 템플릿 멤버 함수 'afa<S>::afa(void)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.cpp(914) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S>::afa(void)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\expand.cpp(79): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\expand.cpp(54) : 클래스 템플릿 멤버 함수 'afa<S> afa<S>::expand(const array<Item> &) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+         ,            Item=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afaunion.cpp(72) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S> afa<S>::expand(const array<Item> &) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+         ,            Item=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\same_input_nonzero_state_cat.cpp(142): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\same_input_nonzero_state_cat.cpp(57) : 클래스 템플릿 멤버 함수 'afa<S> afa<S>::same_input_cat(const afa<S> &) const'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afacat.cpp(63) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S> afa<S>::same_input_cat(const afa<S> &) const'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\same_input_nonzero_state_cat.cpp(148): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\same_input_nonzero_state_cat.cpp(163): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\same_input_nonzero_state_cat.cpp(169): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\same_input_nonzero_state_cat.cpp(175): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afa.cpp(71): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afa.cpp(61) : 클래스 템플릿 멤버 함수 'afa<S>::afa(const afa<S> &)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\afa\afaunion.cpp(91) : 컴파일 중인 함수 템플릿 인스턴스화 'afa<S>::afa(const afa<S> &)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\pool\get.cpp(85): warning C4554: '<<' : 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\pool\get.cpp(55) : 클래스 템플릿 멤버 함수 'void *pool<cat_exp<S>>::get_member(void)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\memory.cpp(128) : 컴파일 중인 함수 템플릿 인스턴스화 'void *pool<cat_exp<S>>::get_member(void)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\memory.cpp(127) : 클래스 템플릿 멤버 함수 'void *cat_exp<S>::operator new(size_t)'을(를) 컴파일하고 있습니다.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\cat.cpp(70) : 컴파일 중인 함수 템플릿 인스턴스화 'void *cat_exp<S>::operator new(size_t)'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+                 c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\cat.cpp(70) : 컴파일 중인 클래스 템플릿 인스턴스화 'cat_exp<S>'에 대한 참조를 확인하십시오.
+                 with
+                 [
+                     S=char
+                 ]
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\pool\get.cpp(97): warning C4554: '<<' : 연산자 우선 순위에 오류가 있는지 확인하십시오. 괄호를 사용하여 우선 순위를 명확하게 지정하십시오.
+     1>c:\users\꼬부기\documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\classes\re\fmtore2.cpp(217): warning C4715: 'find_state' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\grail.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\grail.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\grail.lib" /MACHINE:X86 /SAFESEH Debug\grail.obj
+         Debug\stdafx.obj
+         grail.vcxproj -> C:\Users\꼬부기\Documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\Debug\grail.exe
+     1>"C:\Users\꼬부기\Documents\카카오톡 받은 파일\grail3-windows\grail_ver1\grail\grail.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:06.39
